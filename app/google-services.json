@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573520818507",
+    "firebase_url": "https://pendeza-7ce41.firebaseio.com",
+    "project_id": "pendeza-7ce41",
+    "storage_bucket": "pendeza-7ce41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573520818507:android:93e4f67b827afb96df78ce",
+        "android_client_info": {
+          "package_name": "com.mavirinfotech.pendeza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573520818507-nkbqaj9jpdb4a56uhimsuj1tlobmvgdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mavirinfotech.pendeza",
+            "certificate_hash": "9a2cef3e9b30ffc806564b3b404632cbebd3880d"
+          }
+        },
+        {
+          "client_id": "573520818507-nalp4466bdonibc8lddf4khilplo5s7h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA89ReqffP6VKUSawSoM2l_bNu0U1A47rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573520818507-nalp4466bdonibc8lddf4khilplo5s7h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
